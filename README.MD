@@ -1,14 +1,14 @@
-<!DOCTYPE html>
 <html lang="en" class="">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
   <body>
-<h2>¹ØÓÚ</h2>
-<p>µÃÒæÓÚ²©¿ÍÔ°¿ÉÒÔ×Ô¶¨ÒåÒ³ÃæCSSÑùÊ½µÄ¹¦ÄÜ£¬×Ô¼ºÊÔ×ÅĞ´ÁËÒ»¸öCSS£¬·ÂCSDN²©¿ÍÃûÔ» ±à³Ì¹¤×÷ÊÒ µÄ²©¿ÍÔ°(cnblogs)Ö÷Ìâ¡£ÊÇ»ùÓÚcnblogsµÄBlackLowKeyÖ÷ÌâÉÏ¶¨ÖÆµÄCSS¡£</p>
-<h2>Ê¹ÓÃ</h2>
-1¡¢ÏÈÑ¡ÉÏBlackLowKeyÖ÷Ìâ¡£
-2¡¢½«´úÂë·Åµ½¡°Ò³Ãæ¶¨ÖÆCSS´úÂë¡±´¦¡£
-<h2>´úÂë</h2>
+<h2>å…³äº</h2>
+<p>å¾—ç›Šäºåšå®¢å›­å¯ä»¥è‡ªå®šä¹‰é¡µé¢CSSæ ·å¼çš„åŠŸèƒ½ï¼Œè‡ªå·±è¯•ç€å†™äº†ä¸€ä¸ªCSSï¼Œä»¿CSDNåšå®¢åæ›° ç¼–ç¨‹å·¥ä½œå®¤ çš„åšå®¢å›­(cnblogs)ä¸»é¢˜ã€‚æ˜¯åŸºäºcnblogsçš„BlackLowKeyä¸»é¢˜ä¸Šå®šåˆ¶çš„CSSã€‚</p>
+<h2>ä½¿ç”¨</h2>
+1ã€å…ˆé€‰ä¸ŠBlackLowKeyä¸»é¢˜ã€‚
+2ã€å°†ä»£ç æ”¾åˆ°â€œé¡µé¢å®šåˆ¶CSSä»£ç â€å¤„ã€‚
+<h2>ä»£ç </h2>
 <code>
+<pre>
 *{
 font-family:'microsoft yahei' !important;
 }
@@ -195,7 +195,7 @@ font-size: 13px !important;
 padding:0 10px 0 10px !important;
 }
 
-//È¥ÂÌÉ«Í¨µÀ
+//å»ç»¿è‰²é€šé“
 #green_channel{
 display:none !important;
 border:0;
@@ -205,7 +205,7 @@ border:0;
 display:none;
 }
 
-//È¥¹ã¸æ
+//å»å¹¿å‘Š
 #site_nav_under, #ad_under_post_holder, #comment_form_container,blog_news_kb,google_ad_c2, #comment_nav{
 display:none !important;
 }
@@ -213,6 +213,7 @@ display:none !important;
 #site_nav_under,#google_ad_c1,#under_post_news,#google_ad_c2,#under_post_kb{
 display:none !important;
 }
+</pre>
 </code>
 </body>
 </html>
